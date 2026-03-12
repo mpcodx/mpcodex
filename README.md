@@ -14,7 +14,7 @@
 - 🌱 Exploring **AI, Cloud, and Next-gen frameworks**  
 - ⚡ Always optimizing code for **speed, scalability, and clean architecture**  
 - 🎯 Strong problem solver with 11+ years of experience  
-- 📫 Reach me: [your.email@example.com](mailto:your.email@example.com)  
+- 📫 Reach me: [manpreetsingh70.it@gmail.com](mailto:manpreetsingh70.it@gmail.com)  
 
 ---
 
