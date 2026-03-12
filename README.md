@@ -20,10 +20,10 @@
 
 ## 🛠️ Tech Stack & Skills
 ![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-Intermediate-green?style=for-the-badge&logo=django)
-![React](https://img.shields.io/badge/React-Advanced-blue?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Beginner-blue?style=for-the-badge&logo=docker)
+![Django](https://img.shields.io/badge/Django-Expert-green?style=for-the-badge&logo=django)
+![React](https://img.shields.io/badge/React-Expert-blue?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-Expert-green?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Expert-blue?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-Intermediate-orange?style=for-the-badge&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/Git-Version_Control-red?style=for-the-badge&logo=git)
 
