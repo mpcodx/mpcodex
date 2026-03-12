@@ -1,45 +1,45 @@
-# Hi, I'm Manpreet Singh 👋
+# Hi, I'm MPCodex 👋
 
-**Full Stack Developer | Python & AI Enthusiast | Web & Software Engineer**
+**Full Stack Developer | Python & Web Enthusiast | Clean Code Lover**
 
 ---
 
 ## 🔹 About Me
-- 💻 11+ years of experience in Python, Django, React, Node.js, and modern web technologies  
-- 🌱 Always learning AI, cloud, and advanced web systems  
-- 🎯 Passionate about creating clean, performant, and scalable solutions  
-- 📫 Reach me at: [Email](mailto:your.email@example.com)  
+- 💻 Passionate about building efficient and modern web applications  
+- 🌱 Constantly learning new tools, frameworks, and technologies  
+- 💡 Enjoy solving problems and improving code quality  
+- 📫 Reach me at: your.email@example.com
 
 ---
 
 ## 🛠️ Skills & Technologies
 ![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-Intermediate-green?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-Advanced-blue?style=for-the-badge&logo=react)
+![Django](https://img.shields.io/badge/Django-Solid‑Skills-green?style=for-the-badge&logo=django)
+![React](https://img.shields.io/badge/React-Experienced‑Dev-blue?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Beginner-blue?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-Intermediate-orange?style=for-the-badge&logo=amazon-aws)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automation-purple?style=for-the-badge&logo=githubactions)
 
 ---
 
-## 🌐 Coding Profiles & Achievements
-![GitHub followers](https://img.shields.io/github/followers/manpreet123?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/manpreet123?style=social)
-![LeetCode](https://img.shields.io/badge/LeetCode-250%20Problems-orange?style=for-the-badge&logo=leetcode)
-![HackerRank](https://img.shields.io/badge/HackerRank-Skillful-green?style=for-the-badge&logo=hackerrank)
-![Codeforces](https://img.shields.io/badge/Codeforces-1800%20Rating-blue?style=for-the-badge&logo=codeforces)
+## 🌐 Coding Profiles & Badges
+![GitHub followers](https://img.shields.io/github/followers/mpcodex?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/mpcodex?style=social)
+![LeetCode](https://img.shields.io/badge/LeetCode-Solved%20Tasks-orange?style=for-the-badge&logo=leetcode)
+![HackerRank](https://img.shields.io/badge/HackerRank-Skills%20Earned-green?style=for-the-badge&logo=hackerrank)
+![Codeforces](https://img.shields.io/badge/Codeforces-Rating%20Level-blue?style=for-the-badge&logo=codeforces)
 
 ---
 
 ## 📊 GitHub Stats
-![Manpreet Singh GitHub Stats](https://github-readme-stats.vercel.app/api?username=manpreet123&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manpreet123&layout=compact&theme=radical)
+![MPCodex’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=mpcodex&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mpcodex&layout=compact&theme=radical)
 
 ---
 
 ## 💡 Fun Fact
-🦈 “Shark mode ON” – always hunting for new coding challenges!  
+🦈 Always coding with 🧠 + ☕ + tunes!
 
 ---
 
-> ⚡ Fun tip: You can customize this README further by changing badge styles, adding more platforms, or embedding GIFs for personality.  
+> ⚡ Tip: Replace email and customize badges (like exact LeetCode solved count, rating, etc.) to make this uniquely yours.
