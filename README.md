@@ -13,7 +13,7 @@
 - 💻 Passionate about building **efficient & modern web apps**  
 - 🌱 Exploring **AI, Cloud, and Next-gen frameworks**  
 - ⚡ Always optimizing code for **speed, scalability, and clean architecture**  
-- 🎯 Strong problem solver with 11+ years of experience  
+- 🎯 Strong problem solver with 6+ years of experience  
 - 📫 Reach me: [manpreetsingh70.it@gmail.com](mailto:manpreetsingh70.it@gmail.com)  
 
 ---
