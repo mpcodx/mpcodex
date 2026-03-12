@@ -2,44 +2,51 @@
 
 **Full Stack Developer | Python & Web Enthusiast | Clean Code Lover**
 
+[![Website](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mpcodex)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mpcodex)
+
 ---
 
 ## 🔹 About Me
-- 💻 Passionate about building efficient and modern web applications  
-- 🌱 Constantly learning new tools, frameworks, and technologies  
-- 💡 Enjoy solving problems and improving code quality  
-- 📫 Reach me at: your.email@example.com
+- 💻 Passionate about building **efficient & modern web applications**  
+- 🌱 Constantly learning **AI, Cloud, and cutting-edge frameworks**  
+- 💡 Enjoy **problem-solving** and improving code quality  
+- 🎯 Always aim to deliver **clean, scalable, and maintainable code**  
+- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
 
 ---
 
 ## 🛠️ Skills & Technologies
 ![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-Solid‑Skills-green?style=for-the-badge&logo=django)
-![React](https://img.shields.io/badge/React-Experienced‑Dev-blue?style=for-the-badge&logo=react)
+![Django](https://img.shields.io/badge/Django-Intermediate-green?style=for-the-badge&logo=django)
+![React](https://img.shields.io/badge/React-Advanced-blue?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Beginner-blue?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automation-purple?style=for-the-badge&logo=githubactions)
+![AWS](https://img.shields.io/badge/AWS-Intermediate-orange?style=for-the-badge&logo=amazon-aws)
+![Git](https://img.shields.io/badge/Git-Version_Control-red?style=for-the-badge&logo=git)
 
 ---
 
-## 🌐 Coding Profiles & Badges
-![GitHub followers](https://img.shields.io/github/followers/mpcodex?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/mpcodex?style=social)
-![LeetCode](https://img.shields.io/badge/LeetCode-Solved%20Tasks-orange?style=for-the-badge&logo=leetcode)
-![HackerRank](https://img.shields.io/badge/HackerRank-Skills%20Earned-green?style=for-the-badge&logo=hackerrank)
-![Codeforces](https://img.shields.io/badge/Codeforces-Rating%20Level-blue?style=for-the-badge&logo=codeforces)
+## 🌐 Coding Profiles & Achievements
+[![GitHub followers](https://img.shields.io/github/followers/mpcodex?label=Followers&style=social)](https://github.com/mpcodex?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/mpcodex?style=social)](https://github.com/mpcodex?tab=stars)
+![LeetCode](https://img.shields.io/badge/LeetCode-250%20Problems-orange?style=for-the-badge&logo=leetcode)
+![HackerRank](https://img.shields.io/badge/HackerRank-Skillful-green?style=for-the-badge&logo=hackerrank)
+![Codeforces](https://img.shields.io/badge/Codeforces-1800%20Rating-blue?style=for-the-badge&logo=codeforces)
 
 ---
 
 ## 📊 GitHub Stats
-![MPCodex’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=mpcodex&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mpcodex&layout=compact&theme=radical)
+![MPCodex GitHub Stats](https://github-readme-stats.vercel.app/api?username=mpcodex&show_icons=true&count_private=true&theme=radical&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mpcodex&layout=compact&theme=radical&hide_border=false)
 
 ---
 
 ## 💡 Fun Fact
-🦈 Always coding with 🧠 + ☕ + tunes!
+🦈 **Shark mode ON** – always hunting for coding challenges!  
+☕ + 🧠 + 🎶 = Perfect coding combo  
 
 ---
 
-> ⚡ Tip: Replace email and customize badges (like exact LeetCode solved count, rating, etc.) to make this uniquely yours.
+> ⚡ **Pro Tip:** Update badges regularly with real stats (LeetCode, HackerRank, Codeforces) and add GIFs or emojis to reflect personality.
